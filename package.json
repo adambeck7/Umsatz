@@ -6,8 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "test:unit": "vue-cli-service test:unit",
-    "start": "vue-cli-service start"
+    "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
     "auth0-js": "^9.8.0",
